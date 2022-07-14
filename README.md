@@ -17,10 +17,10 @@ Group: J4322c
 
 <ul>
     <ol type='1'>
-    <li><a href='#001'>TASK 1. RANDOM DECISION FORESTS</a></li>
-    <li><a href='#002'>TASK 2. GRADIENT DESCENT, ADAM</a></li>
-    <li><a href='#003'>TASK 3. STOCHASTIC GRADIENT DESCENT, LOGISTIC REGRESSION</a></li>
-    <li><a href='#003'>TASK 4. NATURAL LANGUAGE PROCESSING</a></li>
-    <li><a href='#003'>TASK 5. CONVOLUTIONAL NEURAL NETWORKS</a></li>
+    <li><a href='https://github.com/mdvdv/machine_learning/blob/main/TASK%201/TASK%201.ipynb'>TASK 1. RANDOM DECISION FORESTS</a></li>
+    <li><a href='https://github.com/mdvdv/machine_learning/blob/main/TASK%202/TASK%202.ipynb'>TASK 2. GRADIENT DESCENT, ADAM</a></li>
+    <li><a href='https://github.com/mdvdv/machine_learning/blob/main/TASK%203/TASK%203.ipynb'>TASK 3. STOCHASTIC GRADIENT DESCENT, LOGISTIC REGRESSION</a></li>
+    <li><a href='https://github.com/mdvdv/machine_learning/blob/main/TASK%204/TASK%204.ipynb'>TASK 4. NATURAL LANGUAGE PROCESSING</a></li>
+    <li><a href='https://github.com/mdvdv/machine_learning/blob/main/TASK%205/TASK%205.ipynb'>TASK 5. CONVOLUTIONAL NEURAL NETWORKS</a></li>
     </ol>
 </ul>
